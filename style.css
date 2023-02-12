@@ -513,4 +513,8 @@ footer{
         text-align: center;
         margin: 12px 0;
     }
+
+    .personal__logo--footer{
+        font-size: 40px;
+    }
 }
