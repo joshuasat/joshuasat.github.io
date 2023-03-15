@@ -183,9 +183,8 @@ nav{
     width: 100%;
 
     /* improving my own picture */
-    transform: scale(1.6);
-    padding-top: 18px;
-    padding-right: 18px;
+    transform: scale(1.7);
+    padding-right: 10px;
 }
 
 .about-me__info--title{
